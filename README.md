@@ -30,8 +30,8 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-tech&show_icons=true&locale=en" alt="abu-tech" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tech&" alt="abu-tech" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-tech&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="abu-tech" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="abu-tech" /></p>
 
 <hr>
 
