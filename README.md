@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 👨‍💻 All of my projects are available at [https://www.abutech.me/](https://www.abutech.me/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.abutech.me/)
 
 - 💬 Ask me about **Development**
 
